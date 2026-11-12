@@ -23,3 +23,6 @@ mono_crash.*.json
 *.exe
 # Uncomment if your project does not version PCK files as runtime dependencies.
 # *.pck
+
+# Addons: https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v3
+addons/
